@@ -1139,10 +1139,10 @@ body.dark .search-field i {
         padding-top: 2rem;
     }
    .feedback{
-margin-left: 0;
+
 margin-top: 2rem;
-margin-right: 9rem;
    }
+   
    textarea{
     width: 64vw;
    }
@@ -1206,9 +1206,9 @@ margin-right: 9rem;
 .dropdown:hover .content{
     display: block;
 }
-.dropdown:hover button{
+/* .dropdown:hover button{
    
-}
+} */
 .dropdown a:hover{
     background-color: hsla(307, 17%, 71%, 0.742);
 }
